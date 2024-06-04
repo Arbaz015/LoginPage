@@ -5,6 +5,14 @@
     <string name="name_placeholder">Enter Name</string>
     <string name="pass_placeholder">Enter Password</string>
     <string name="gender">Gender</string>
+
     <string name="male_radiobtn">Male</string>
     <string name="female_radiobtn">Female\n</string>
+    <string name="Titile">Sign Up</string>
+    <string name="Address">Address</string>
+    <string name="Address_Placeholder">Enter Addrss</string>
+    <string name="Mobile_num">Mob No</string>
+    <string name="Placeholder">Enter Mob No</string>
+    <string name="submit_button">Submit</string>
+
 </resources>
